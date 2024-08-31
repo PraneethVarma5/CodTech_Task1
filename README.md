@@ -5,7 +5,7 @@
 **Duration:** August to September 2024  
 **Mentor:** Muzammil  
 
-## Project: Exploratory Data Analysis (EDA)
+## Project: Exploratory Data Analysis (EDA)##
 
 ### Objective
 The objective of this project is to perform Exploratory Data Analysis on a dataset containing real estate listings for properties in Islamabad, Pakistan. The dataset includes details such as property type, price, location, city, province, latitude, longitude, date added, agency, agent, and area size in Marla.
